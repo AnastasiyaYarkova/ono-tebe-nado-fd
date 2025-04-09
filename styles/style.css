@@ -6,9 +6,6 @@
     display: grid;
     grid-template-columns: 1fr min-content 1fr;
     align-items: center;
-    padding-left: 50px;
-    padding-right: 50px;
-    padding-top: 92px;
     padding: 92px 50px;
 }
 .header__logo_image {
@@ -228,14 +225,13 @@
 }
 .about__column_text {
     padding-top: 141px;
-    width: 693px;
+    width: 690px;
 }
 .about__text {
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
     margin-bottom: 24px;
-   width: 100%;
 }
 .about__text:last-of-type {
    margin-bottom: 0;
